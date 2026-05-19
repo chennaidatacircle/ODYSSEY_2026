@@ -4,7 +4,7 @@
 
 Welcome to the official speakers deck repository for **ODYSSEY 2026**, hosted by **Chennai Data Circle**.
 
-This repository contains presentation decks, speaker resources, session materials, and event-related assets for speakers participating in ODYSSEY 2026.
+This repository contains presentation decks, speaker resources, session materials, and event-related assets for participants who have attended in ODYSSEY 2026.
 
 ---
 
