@@ -41,15 +41,6 @@ Follow us for:
 * Open community initiatives
 
 ---
-
-## Code of Conduct
-
-We are committed to providing a welcoming and inclusive experience for everyone.
-
-Please be respectful, collaborative, and supportive throughout the event and community interactions.
-
----
-
 ## Contact
 
 For speaker support, collaboration opportunities, or event-related queries:
